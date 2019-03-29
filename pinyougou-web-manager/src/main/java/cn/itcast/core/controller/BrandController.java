@@ -20,7 +20,7 @@ import java.util.Map;
 @RestController
 @RequestMapping("/brand")
 public class BrandController {
-
+//测试
     @Reference
     private BrandService brandService;
     //查询所有品牌结果集
