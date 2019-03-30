@@ -1,4 +1,4 @@
-package cn.itcast.core.controller;
+﻿package cn.itcast.core.controller;
 
 import cn.itcast.core.pojo.good.Brand;
 import cn.itcast.core.service.BrandService;
@@ -20,6 +20,7 @@ import java.util.Map;
 @RestController
 @RequestMapping("/brand")
 public class BrandController {
+//测试
 //测试
     @Reference
     private BrandService brandService;
