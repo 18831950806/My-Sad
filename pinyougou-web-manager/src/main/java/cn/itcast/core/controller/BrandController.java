@@ -21,6 +21,7 @@ import java.util.Map;
 @RequestMapping("/brand")
 public class BrandController {
 //测试
+//git测试项目
     @Reference
     private BrandService brandService;
     //查询所有品牌结果集
