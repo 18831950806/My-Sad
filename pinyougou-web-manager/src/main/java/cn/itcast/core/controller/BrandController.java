@@ -22,6 +22,7 @@ import java.util.Map;
 public class BrandController {
 //测试
 //测试
+//cccc
     @Reference
     private BrandService brandService;
     //查询所有品牌结果集
